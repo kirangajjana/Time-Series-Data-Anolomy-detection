@@ -25,10 +25,7 @@ Deployment and Monitoring: Design a pipeline for real-time or near real-time dat
 
 Tech Stack:
 
-Python
-Jupyter Notebook
-Azure Cognitive Services
-Azure Machine Learning
-Azure Pipelines (for automation)
-Data Visualization Libraries (e.g., Matplotlib, Seaborn)
-Machine Learning Libraries (e.g., scikit-learn, TensorFlow)
+Python,
+Jupyter Notebook,
+Data Visualization Libraries (e.g., Matplotlib, Seaborn),
+Machine Learning Libraries (e.g., scikit-learn, TensorFlow).
