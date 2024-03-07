@@ -25,7 +25,7 @@ Anomaly Detection: Apply the trained model to detect anomalies in the test set, 
 
 Deployment and Monitoring: Design a pipeline for real-time or near real-time data to automate the anomaly detection process. Demonstrate how to deploy the model in an Azure environment and monitor its performance over time.
 
-Tech Stack:
+Tech Stack::-
 
 Python,
 Jupyter Notebook,
