@@ -6,7 +6,7 @@ This GitHub repository contains the code implementation and resources for a comp
 
 
 
-Overview:
+Overview:-
 Anomaly detection in time series data is a critical task for many industries, especially in manufacturing, where identifying abnormal behavior can prevent potential equipment failures and downtime. This project addresses the challenge of detecting anomalies in sensor data collected from various machines on a factory floor. The goal is to build an AI-based solution using Azure's time series capabilities for efficient and accurate anomaly detection.
 
 Key Features:
